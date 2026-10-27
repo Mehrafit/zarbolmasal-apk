@@ -1,0 +1,6 @@
+{
+  "name": "بازی ضرب‌المثل‌های ایرانی",
+  "description": "بازی معمایی و سرگرم‌کننده بر پایه ۱۰۰ ضرب‌المثل اصیل ایرانی همراه با تصاویر مفهومی، مراحل چالشی و پاداش سرعت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
